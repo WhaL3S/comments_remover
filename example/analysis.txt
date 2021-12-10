@@ -1,0 +1,3 @@
+const int level = 100;               // The level mark is constant to 100 can't be changed  
+const decimal turnaround = 45.67;    // The turnaround is constant and can't be placed more 
+/* for multi line comments */  
