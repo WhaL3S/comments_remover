@@ -1,0 +1,2 @@
+const int level = 100;               
+const decimal turnaround = 45.67; 
